@@ -48,7 +48,7 @@ Deployment: Netlify
 
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/pricing-control-center.git](https://github.com/YOUR_USERNAME/pricing-control-center.git)
+git clone [https://github.com/NIHITHPENUMUCHU/karmic-pricing-engine.git](https://github.com/NIHITHPENUMUCHU/karmic-pricing-engine.git)
 cd pricing-control-center
 
 
